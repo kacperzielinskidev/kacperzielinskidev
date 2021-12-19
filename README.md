@@ -24,3 +24,5 @@
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/gasparuss/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/gasparuss/)
 [![Figma](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)](https://github.com/gasparuss/)
+
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)](https://github.com/gasparuss/)
