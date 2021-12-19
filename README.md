@@ -14,7 +14,7 @@
 [![Styled Components](https://img.shields.io/badge/-StyledComponents-black?style=flat-square&logo=Styled-Components)](https://github.com/gasparuss/)
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typscript&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
+[![TypeScript](https://img.shields.io/badge/-ts-black?style=flat-square&logo=typscript&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/gasparuss/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
