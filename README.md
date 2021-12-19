@@ -15,7 +15,7 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
 - Already learn
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)  
+- [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)  
 
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/gasparuss/)
