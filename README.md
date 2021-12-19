@@ -4,7 +4,7 @@
 
 #### My name is Kacper, I'm 24 years old. I love working in React JS and learning new things related to programming.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zielinskikacper/)](https://www.linkedin.com/in/olaf-sulich/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zielinskikacper/)](https://www.linkedin.com/in/zielinskikacper/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:olafsulich@gmail.com)](mailto:olafsulich@gmail.com)
 
 ## 🔧 Technologies
