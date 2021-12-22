@@ -23,6 +23,7 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/gasparuss/)
 
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
+[![Firebase](https://img.shields.io/badge/-Firebase-E10098?style=flat-square&logo=firebase&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/gasparuss/)
