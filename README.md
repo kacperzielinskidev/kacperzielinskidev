@@ -19,8 +19,7 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/gasparuss/)
 
-[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
-[![Amplify](https://img.shields.io/badge/-Amplify-E10098?style=flat-square&logo=amplify&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
+[![GRAPHQL Badge](https://img.shields.io/badge/-graphql-e535ab?style=for-the-badge&labelColor=black&logo=graphQL&logoColor=e535ab)](https://developer.mozilla.org/docs/HTML/HTML5)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/gasparuss/)
