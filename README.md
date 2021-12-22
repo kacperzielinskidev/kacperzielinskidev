@@ -1,4 +1,4 @@
-# Thanks for viewing my GitHub Profile! 👋
+# Hi, I'm Kacper 👋
 
 ## 🙍 About me
 
