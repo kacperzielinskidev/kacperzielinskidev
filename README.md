@@ -6,8 +6,8 @@
 
 📫 Contact me!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-bzagrodzki-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zielinskikacper/)
-[![Mail Badge](https://img.shields.io/badge/-bartzagr-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kacperzielinski.primary@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zielinskikacper/)](https://www.linkedin.com/in/zielinskikacper/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kacperzielinski.primary@gmail.com)](mailto:kacperzielinski.primary@gmail.com)
 
 ## 🔧 Technologies
 
