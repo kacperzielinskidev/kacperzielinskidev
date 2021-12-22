@@ -17,9 +17,9 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com)
 
+[<img align="left" alt="GraphQL" width="26px" src="https://i.ibb.co/yBhy8BH/graphql-icon.png" />](https://graphql.org/)
 
 
-[![GRAPHQL Badge](https://img.shields.io/badge/-graphql-e535ab?style=for-the-badge&labelColor=black&logo=graphQL&logoColor=e535ab)](https://github.com/gasparuss)
 
 
 [![GIT Badge](https://img.shields.io/badge/-git-bd2c00?style=for-the-badge&labelColor=black&logo=git&logoColor=bd2c00)](https://github.com/gasparuss)
