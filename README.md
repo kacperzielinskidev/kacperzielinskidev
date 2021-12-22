@@ -9,9 +9,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zielinskikacper/)](https://www.linkedin.com/in/zielinskikacper/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kacperzielinski.primary@gmail.com)](mailto:kacperzielinski.primary@gmail.com)
 
-## 🔧 Technologies
+## 🔧 Main Technologies
 [![HTML Badge](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e34c26)](https://github.com/gasparuss)
-[![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](https://github.com/gasparuss) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/gasparuss)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/gasparuss)
+[![SCSS Badge](https://img.shields.io/badge/-SCSS-CD6799?style=for-the-badge&labelColor=black&logo=sass&logoColor=CD6799)](https://github.com/gasparuss) [![STYLEDCOMPONENTS Badge](https://img.shields.io/badge/-styledcomponents-EB9D73?style=for-the-badge&labelColor=black&logo=styledcomponents&logoColor=#EB9D73)](https://github.com/Gasparuss)  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/gasparuss)  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/gasparuss)
 
 
 [![JAVASCRIPT Badge](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&labelColor=black&logo=javascript&logoColor=yellow)](https://github.com/gasparuss)
