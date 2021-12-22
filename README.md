@@ -19,7 +19,7 @@
 
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/gasparuss/)
 
-[![GRAPHQL Badge](https://img.shields.io/badge/-graphql-e535ab?style=for-the-badge&labelColor=black&logo=graphQL&logoColor=e535ab)](https://developer.mozilla.org/docs/HTML/HTML5)
+[![GRAPHQL Badge](https://img.shields.io/badge/-graphql-e535ab?style=for-the-badge&labelColor=black&logo=graphQL&logoColor=e535ab)](https://graphql.org/)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/gasparuss/)
