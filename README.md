@@ -15,13 +15,13 @@
 
 
 [![JAVASCRIPT Badge](https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&labelColor=black&logo=javascript&logoColor=yellow)](https://github.com/gasparuss)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/gasparuss)
+[![TYPESCRIPT Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/gasparuss)
 
 
 [![GRAPHQL Badge](https://img.shields.io/badge/-graphql-e535ab?style=for-the-badge&labelColor=black&logo=graphQL&logoColor=e535ab)](https://github.com/gasparuss)
 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/gasparuss/)](https://github.com/gasparuss/)
+[![GIT Badge](https://img.shields.io/badge/-git-bd2c00?style=for-the-badge&labelColor=black&logo=git&logoColor=bd2c00)](https://github.com/gasparuss)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/gasparuss/)
 [![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/gasparuss/)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/gasparuss/)
