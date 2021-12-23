@@ -23,6 +23,8 @@
 [<img align="left" alt="EXPRESS" width="26px" src="https://i.ibb.co/s5PD1HJ/node.png" />](https://expressjs.com/)
 [<img align="left" alt="GITHUB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />](https://github.com/)
 [<img align="left" alt="MYSQL" width="26px" src="https://i.ibb.co/XbW32Kd/development-logo-mysql-icon-1320184807686758112-48.png" />](https://www.mysql.com/)
+[<img align="left" alt="AMPLIFYCLI" width="26px" src="https://i.ibb.co/rFCT8qR/gwyg-Lo-Ve2.png" />](https://docs.amplify.aws/)
+
 
 <br />
 <br />
