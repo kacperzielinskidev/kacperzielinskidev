@@ -19,8 +19,11 @@
 [<img align="left" alt="GraphQL" width="26px" src="https://i.ibb.co/yBhy8BH/graphql-icon.png" />](https://graphql.org/)
 [<img align="left" alt="GIT" width="26px" src="https://i.ibb.co/chM8MZr/clipart2181371.png" />](https://git-scm.com/)
 [<img align="left" alt="MONGODB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />](https://www.mongodb.com/)
-[<img align="left" alt="EXPRESS" width="26px" src="https://i.ibb.co/HFzS94q/express-facebook-share.png" />](https://expressjs.com/)
+[<img align="left" alt="EXPRESS" width="26px" src="https://i.ibb.co/s5PD1HJ/node.png" />](https://expressjs.com/)
 [<img align="left" alt="GITHUB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />](https://github.com/)
+[<img align="left" alt="MYSQL" width="26px" src="https://i.ibb.co/XbW32Kd/development-logo-mysql-icon-1320184807686758112-48.png" />](https://www.mysql.com/)
+
+
 
 
 
