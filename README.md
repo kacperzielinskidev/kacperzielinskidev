@@ -23,12 +23,14 @@
 [<img align="left" alt="GITHUB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />](https://github.com/)
 [<img align="left" alt="MYSQL" width="26px" src="https://i.ibb.co/XbW32Kd/development-logo-mysql-icon-1320184807686758112-48.png" />](https://www.mysql.com/)
 
+<br />
+<br />
+
 ### Other tools that I use every day.
 [<img align="left" alt="NPML" width="26px" src="https://cdn.auth0.com/blog/npm-package-development/logo.png" />](https://www.npmjs.com/)
 [<img align="left" alt="ESLINT" width="26px" src="https://miro.medium.com/max/724/0*j8QIJFhW8j91e5Cd.png" />](https://eslint.org/)
 [<img align="left" alt="PRETTIER" width="26px" src="https://prettier.io/icon.png" />](https://prettier.io/)
-[<img align="left" alt="FIGMA" width="26px" src="https://media-exp1.licdn.com/dms/image/C560BAQGvV_5x3UBMJA/company-logo_200_200/0/1571158216754?e=2159024400&v=beta&t=FNtl7xIQWKxcVVqON99w2TgHZ1coVC3kevZEHi0z6lI
-" />](https://www.figma.com/)
+[<img align="left" alt="FIGMA" width="26px" src="https://media-exp1.licdn.com/dms/image/C560BAQGvV_5x3UBMJA/company-logo_200_200/0/1571158216754?e=2159024400&v=beta&t=FNtl7xIQWKxcVVqON99w2TgHZ1coVC3kevZEHi0z6lI"/>](https://www.figma.com/)
 [<img align="left" alt="VSC" width="26px" src="https://i.ibb.co/YbRHqCN/Visual-Studio-Code-1-35-icon-svg.png" />](https://code.visualstudio.com/)
 
 
