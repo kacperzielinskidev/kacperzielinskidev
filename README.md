@@ -33,10 +33,6 @@
 
 
 
-[![GIT Badge](https://img.shields.io/badge/-git-bd2c00?style=for-the-badge&labelColor=black&logo=git&logoColor=bd2c00)](https://github.com/gasparuss)
-[![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/gasparuss/)
-[![Eslint](https://img.shields.io/badge/-Eslint-purple?style=flat-square&logo=Eslint&logoColor=white)](https://github.com/gasparuss/)
-[![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/gasparuss/)
-[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/gasparuss/)
+
 
 
