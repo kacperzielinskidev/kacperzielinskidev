@@ -20,6 +20,8 @@ https://i.ibb.co/9yjzH4D/68747470733a2f2f692e6962622e636f2f516e726634516e2f46726
 [<img align="left" alt="Next" width="26px" src="https://i.ibb.co/9yjzH4D/68747470733a2f2f692e6962622e636f2f516e726634516e2f4672616d652d32362e706e67.png" />](https://nextjs.org/)
 [<img align="left" alt="GraphQL" width="26px" src="https://i.ibb.co/yBhy8BH/graphql-icon.png" />](https://graphql.org/)
 [<img align="left" alt="GIT" width="26px" src="https://i.ibb.co/chM8MZr/clipart2181371.png" />](https://git-scm.com/)
+[<img align="left" alt="FIREBASE" width="26px" src="https://i.ibb.co/s9dk2gn/firebase.png" />](https://firebase.google.com/)
+[<img align="left" alt="JEST" width="26px" src="https://i.ibb.co/H4F4XH4/jest.png" />](https://jestjs.io/)
 [<img align="left" alt="MONGODB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />](https://www.mongodb.com/)
 [<img align="left" alt="EXPRESS" width="26px" src="https://i.ibb.co/s5PD1HJ/node.png" />](https://expressjs.com/)
 [<img align="left" alt="GITHUB" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />](https://github.com/)
