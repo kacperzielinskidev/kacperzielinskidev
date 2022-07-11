@@ -29,10 +29,12 @@
 [<img align="left" alt="MYSQL" width="26px" src="https://i.ibb.co/XbW32Kd/development-logo-mysql-icon-1320184807686758112-48.png" />](https://www.mysql.com/)
 [<img align="left" alt="POSTGRESQL" width="26px" src="https://i.ibb.co/M5RB3jg/postgresql.png" />](https://www.postgresql.org/)
 [<img align="left" alt="AMPLIFYCLI" width="26px" src="https://i.ibb.co/rFCT8qR/gwyg-Lo-Ve2.png" />](https://docs.amplify.aws/)
+[<img align="left" alt="REDUX" width="26px" src="https://i.ibb.co/LPJgH21/redux.png" />](https://redux.js.org/)
 
 
 
 
+https://redux.js.org/
 <br />
 <br />
 
