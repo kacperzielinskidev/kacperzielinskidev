@@ -19,6 +19,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com)
 [<img align="left" alt="Next" width="26px" src="https://i.ibb.co/9yjzH4D/68747470733a2f2f692e6962622e636f2f516e726634516e2f4672616d652d32362e706e67.png" />](https://nextjs.org/)
 [<img align="left" alt="GraphQL" width="26px" src="https://i.ibb.co/yBhy8BH/graphql-icon.png" />](https://graphql.org/)
+[<img align="left" alt="APOLLO" width="26px" src="https://i.ibb.co/B6yTNrR/channels4-profile.jpg" />](https://www.apollographql.com/)
 [<img align="left" alt="GIT" width="26px" src="https://i.ibb.co/chM8MZr/clipart2181371.png" />](https://git-scm.com/)
 [<img align="left" alt="FIREBASE" width="26px" src="https://i.ibb.co/NtL0frG/firebase-seeklogo-com.png" />](https://firebase.google.com/)
 [<img align="left" alt="JEST" width="26px" src="https://i.ibb.co/H4F4XH4/jest.png" />](https://jestjs.io/)
@@ -44,6 +45,11 @@
 [<img align="left" alt="PRETTIER" width="26px" src="https://prettier.io/icon.png" />](https://prettier.io/)
 [<img align="left" alt="FIGMA" width="26px" src="https://media-exp1.licdn.com/dms/image/C560BAQGvV_5x3UBMJA/company-logo_200_200/0/1571158216754?e=2159024400&v=beta&t=FNtl7xIQWKxcVVqON99w2TgHZ1coVC3kevZEHi0z6lI"/>](https://www.figma.com/)
 [<img align="left" alt="VSC" width="26px" src="https://i.ibb.co/YbRHqCN/Visual-Studio-Code-1-35-icon-svg.png" />](https://code.visualstudio.com/)
+[<img align="left" alt="POSTMAN" width="26px" src="https://i.ibb.co/5Yb8m4g/1-f-VBL9mt-LJm-HIH6-Yp-U7-Wv-HQ.png" />](https://www.postman.com/)
+[<img align="left" alt="GITLAB" width="26px" src="https://i.ibb.co/89VvPSH/gitlab-original-logo-icon-146503.png" />](https://about.gitlab.com/)
+[<img align="left" alt="JIRA" width="26px" src="https://i.ibb.co/7tCggJ8/atlassian-jira-logo-icon-170511.png" />](https://www.atlassian.com/software/jira)
+
+
 
 
 
