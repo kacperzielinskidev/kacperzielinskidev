@@ -48,6 +48,8 @@
 [<img align="left" alt="POSTMAN" width="26px" src="https://i.ibb.co/5Yb8m4g/1-f-VBL9mt-LJm-HIH6-Yp-U7-Wv-HQ.png" />](https://www.postman.com/)
 [<img align="left" alt="GITLAB" width="26px" src="https://i.ibb.co/89VvPSH/gitlab-original-logo-icon-146503.png" />](https://about.gitlab.com/)
 [<img align="left" alt="JIRA" width="26px" src="https://i.ibb.co/7tCggJ8/atlassian-jira-logo-icon-170511.png" />](https://www.atlassian.com/software/jira)
+[<img align="left" alt="POWERSHELL" width="26px" src="https://i.ibb.co/QmmrKfx/Power-Shell-Core-6-0-icon.png" />](https://docs.microsoft.com/en-us/powershell/)
+
 
 
 
