@@ -2,7 +2,7 @@
 
 ## 🙍 About me
 
-##### My name is Kacper, I'm 26 years old. I love working in React JS and learning new things.
+##### My name is Kacper, I'm 28 years old. I love working in React JS and learning new things.
 
 📫 Contact me!
 
